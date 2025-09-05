@@ -39,32 +39,6 @@ Banking.pbix → Power BI dashboard with KPIs, charts, and insights
 
 ⚙️ Setup Instructions
 
-<br>
-
-1️⃣ Clone Repository
-git clone https://github.com/your-username/banking-analysis.git
-cd banking-analysis
-
-2️⃣ Install Dependencies
-
-Make sure you have Python 3.8+ installed.
-Install required libraries:
-
-pip install pandas numpy matplotlib seaborn mysql-connector-python sqlalchemy
-
-3️⃣ Run Jupyter Notebooks
-jupyter notebook
-
-
-Open Visual.ipynb for data analysis.
-
-Open MySqlconnect.ipynb to test MySQL connection.
-
-4️⃣ Open Power BI Dashboard
-
-Open Banking.pbix in Power BI Desktop to explore interactive reports.
-
-<br>
 
 📊 Dashboard Insights
 
