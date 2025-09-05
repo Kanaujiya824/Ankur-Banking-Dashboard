@@ -1,4 +1,4 @@
-📊 Banking Data Analysis & Visualization
+📊 Banking Domain Dashboard
 
 <br>
 
@@ -102,6 +102,6 @@ Build an automated ETL pipeline
 
 <br>
 
-👨‍💻 Author
+👨‍💻 Made By
 
-Udbhav Singh
+Ankur Kanaujiya
